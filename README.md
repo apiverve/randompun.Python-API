@@ -67,9 +67,9 @@ print(result)
   "status": "ok",
   "error": null,
   "data": {
-    "category": "Crazy Jokes",
-    "rating": 2.67,
-    "pun": "Some members of a health club were having their first meeting. The director of the group said, 'Now, I'd like each of you to give the facts of your daily routine.'  Several people spoke, admitting their excesses, and then one obviously overweight member said, 'I eat moderately, I drink moderately, and I exercise frequently.'  'Hmm?' said the manager. 'And are you sure there is nothing you over-indulge in?'  'Well,' said the man, 'I lie extensively.'"
+    "category": "Miscellaneous",
+    "rating": 3,
+    "pun": "If someone with multiple personalities threatens to kill himself, is it considered a hostage situation?"
   },
   "code": 200
 }
@@ -97,7 +97,7 @@ All usage of the APIVerve website, API, and services is subject to the [APIVerve
 ## License
 Licensed under the The MIT License (MIT)
 
-Copyright (&copy;) 2024 APIVerve, and Evlar LLC
+Copyright (&copy;) 2025 APIVerve, and EvlarSoft LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
